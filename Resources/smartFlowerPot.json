@@ -1,0 +1,880 @@
+{
+"array": [ {
+
+"name": "Alstroemeria",
+
+"optimal_light": "",
+
+"optimal_temperature": "23", 
+
+"optimal_moisture": "40" 
+
+},
+
+{
+
+"name": "Amaryllis",
+
+"optimal_light": "",
+
+"optimal_temperature": "22",
+
+"optimal_moisture": "50"
+
+},
+
+{
+
+"name": "Anemone",
+
+"optimal_light": "",
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "60"
+
+},
+
+{
+
+"name": "Asiatic Lily",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "55"
+
+},
+
+{
+
+"name": "Aster",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "45"
+
+},
+
+{
+
+"name": "Azalea",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "40"
+
+},
+
+{
+
+"name": "Baby’s Breath",
+
+"optimal_light": "",
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "50"
+
+},
+
+{
+
+"name": "Begonia",
+
+"optimal_light": "",
+
+"optimal_temperature": "26",
+
+"optimal_moisture": "45"
+
+},
+
+{
+
+"name": "Bird of Paradise",
+
+"optimal_light": "",
+
+"optimal_temperature": "27",
+
+"optimal_moisture": "40"
+
+},
+
+{
+
+"name": "Calla Lily",
+
+"optimal_light": "",
+
+"optimal_temperature": "26",
+
+"optimal_moisture": "42"
+
+},
+
+{
+
+"name": "Campanula",
+
+"optimal_light": "",
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "44"
+
+},
+
+{
+
+"name": "Carnation",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "47"
+
+},
+
+{
+
+"name": "Chrysanthemum",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "58"
+
+},
+
+{
+
+"name": "Cockscomb",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "56"
+
+},
+
+{
+
+"name": "Crocus",
+
+"optimal_light": "",
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "52"
+
+},
+
+{
+
+"name": "Cyclamen",
+
+"optimal_light": "",
+
+"optimal_temperature": "23",
+
+"optimal_moisture": "51"
+
+},
+
+{
+
+"name": "Cymbidium Orchid",
+
+"optimal_light": "",
+
+"optimal_temperature": "21",
+
+"optimal_moisture": "54"
+
+},
+
+{
+
+"name": "Daffodil",
+
+"optimal_light": "",
+
+"optimal_temperature": "26",
+
+"optimal_moisture": "53"
+
+},
+
+{
+
+"name": "Dahlia",
+
+"optimal_light": "",
+
+"optimal_temperature": "27",
+
+"optimal_moisture": "59"
+
+},
+
+{
+
+"name": "Daisy",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "63"
+
+},
+
+{
+
+"name": "Delphinium",
+
+"optimal_light": "",
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "61"
+
+},
+
+{
+
+"name": "Dendrobium Orchid",
+
+"optimal_light": "",
+
+"optimal_temperature": "23",
+
+"optimal_moisture": "51"
+
+},
+
+{
+
+"name": "Freesia",
+
+"optimal_light": "",
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "46"
+
+},
+
+{
+
+"name": "Gardenia",
+
+"optimal_light": "",
+
+"optimal_temperature": "22",
+
+"optimal_moisture": "49"
+
+},
+
+{
+
+"name": "Geranium",
+
+"optimal_light": "",
+
+"optimal_temperature": "23",
+
+"optimal_moisture": "48"
+
+},
+
+{
+
+"name": "Gladiolus",
+
+"optimal_light": "",
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "54"
+
+},
+
+{
+
+"name": "temperatureher",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "62"
+
+},
+
+{
+
+"name": "Hibiscus",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "55"
+
+},
+
+{
+
+"name": "Hyacinth",
+
+"optimal_light": "",
+
+"optimal_temperature": "26",
+
+"optimal_moisture": "59"
+
+},
+
+{
+
+"name": "Hydrangea",
+
+"optimal_light": "",
+
+"optimal_temperature": "22",
+
+"optimal_moisture": "49"
+
+},
+
+{
+
+"name": "Hypericum",
+
+"optimal_light": "",
+
+"optimal_temperature": "23",
+
+"optimal_moisture": "51"
+
+},
+
+{
+
+"name": "Iris",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "58"
+
+},
+
+{
+
+"name": "Jasmine",
+
+"optimal_light": "",
+
+"optimal_temperature": "26",
+
+"optimal_moisture": "54"
+
+},
+
+{
+
+"name": "Jonquil",
+
+"optimal_light": "",
+
+"optimal_temperature": "21",
+
+"optimal_moisture": "55"
+
+},
+
+{
+
+"name": "Kalanchoe",
+
+"optimal_light": "",
+
+"optimal_temperature": "22",
+
+"optimal_moisture": "55"
+
+},
+
+{
+
+"name": "Larkspur",
+
+"optimal_light": "",
+
+"optimal_temperature": "22",
+
+"optimal_moisture": "57"
+
+},
+
+{
+
+"name": "Lavender",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "53"
+
+},
+
+{
+
+"name": "Daffodil",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "57"
+
+},
+
+{
+
+"name": "Liatris",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "60"
+
+},
+
+{
+
+"name": "Lilac",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "61"
+
+},
+
+{
+
+"name": "Lily",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "62"
+
+},
+
+{
+
+"name": "Limonium",
+
+"optimal_light": "",
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "47"
+
+},
+
+{
+
+"name": "Lisianthus",
+
+"optimal_light": "",
+
+"optimal_temperature": "26",
+
+"optimal_moisture": "55"
+
+},
+
+{
+
+"name": "Magnolia",
+
+"optimal_light": "",
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "57"
+
+},
+
+{
+
+"name": "Marigold",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "51"
+
+},
+
+{
+
+"name": "Mini-Carnation",
+
+"optimal_light": "",
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "56"
+
+},
+
+{
+
+"name": "Narcissus",
+
+"optimal_light": "",
+
+"optimal_temperature": "22",
+
+"optimal_moisture": "57"
+
+},
+
+{
+
+"name": "Orchid",
+
+"optimal_light": "",
+
+"optimal_temperature": "23",
+
+"optimal_moisture": "54"
+
+},
+
+{
+
+"name": "Oriental Lily",
+
+"optimal_light": "",
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "51"
+
+},
+
+{
+
+"name": "Pansy",
+
+"optimal_light": "",
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "52"
+
+},
+
+{
+
+"name": "Peace Lily",
+
+"optimal_light": "",
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "55"
+
+},
+
+{
+
+"name": "Petite Rose",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "53"
+
+},
+
+{
+
+"name": "Phalaenopsis Orchid",
+
+"optimal_light": "",
+
+"optimal_temperature": "26",
+
+"optimal_moisture": "54"
+
+},
+
+{
+
+"name": "Poinsettia",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "55"
+
+},
+
+{
+
+"name": "Pompon",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "56"
+
+},
+
+{
+
+"name": "Protea",
+
+"optimal_light": "",
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "58"
+
+},
+
+{
+
+"name": "Ranunculus",
+
+"optimal_light": "",
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "58"
+
+},
+
+{
+
+"name": "Rose",
+
+"optimal_light": "",
+
+"optimal_temperature": "23",
+
+"optimal_moisture": "57"
+
+},
+
+{
+
+"name": "Snapdragon",
+
+"optimal_light": "",
+
+"optimal_temperature": "21",
+
+"optimal_moisture": "59"
+
+},
+
+{
+
+"name": "Solidago",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "59"
+
+},
+
+{
+
+"name": "Spray Rose",
+
+"optimal_light": "",
+
+"optimal_temperature": "23",
+
+"optimal_moisture": "54"
+
+},
+
+{
+
+"name": "Star of Bethlehem",
+
+"optimal_light": "",
+
+"optimal_temperature": "27",
+
+"optimal_moisture": "57"
+
+},
+
+{
+
+"name": "Stargazer Lily",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "50"
+
+},
+
+{
+
+"name": "Statice",
+
+"optimal_light": "",
+
+"optimal_temperature": "26",
+
+"optimal_moisture": "52"
+
+},
+
+{
+
+"name": "Stock",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "53"
+
+},
+
+{
+
+"name": "Sunflower",
+
+"optimal_light": "",
+
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "54"
+
+},
+
+{
+
+"name": "Tea Rose",
+
+"optimal_light": "",
+
+"optimal_temperature": "24",
+
+"optimal_moisture": "55"
+
+},
+
+{
+
+"name": "Trachelium",
+
+"optimal_light": "59",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "56"
+
+},
+
+{
+
+"name": "Tuberose",
+
+"optimal_light": "",
+
+"optimal_temperature": "27",
+
+"optimal_moisture": "56"
+
+},
+
+{
+
+"name": "Tulip",
+
+"optimal_light": "",
+
+"optimal_temperature": "25",
+
+"optimal_moisture": "57"
+
+},
+
+{
+
+"name": "Violet",
+
+"optimal_light": "",
+
+"optimal_temperature": "26",
+
+"optimal_moisture": "59"
+
+},
+
+{
+
+"name": "Waxflower",
+
+"optimal_light": "",
+
+"optimal_temperature": "23",
+
+"optimal_moisture": "58"
+
+},
+
+{
+
+"name": "Zinnia",
+
+"optimal_light": "",
+
+"optimal_temperature": "22",
+
+"optimal_moisture": "57"
+
+}
+
+]
+}
