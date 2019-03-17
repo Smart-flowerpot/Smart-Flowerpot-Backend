@@ -7,7 +7,9 @@
 
 "optimal_temperature": "23", 
 
-"optimal_moisture": "40" 
+"optimal_moisture": "40",
+
+"optimal_moisture_soil": "43"
 
 },
 
@@ -19,7 +21,9 @@
 
 "optimal_temperature": "27",
 
-"optimal_moisture": "50"
+"optimal_moisture": "50",
+
+"optimal_moisture_soil": "52"
 
 },
 
@@ -31,7 +35,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "60"
+"optimal_moisture": "60",
+
+"optimal_moisture_soil": "49"
 
 },
 
@@ -43,7 +49,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "55"
+"optimal_moisture": "55",
+
+"optimal_moisture_soil": "51"
 
 },
 
@@ -55,7 +63,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "45"
+"optimal_moisture": "45",
+
+"optimal_moisture_soil": "59"
 
 },
 
@@ -67,7 +77,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "40"
+"optimal_moisture": "40",
+
+"optimal_moisture_soil": "58"
 
 },
 
@@ -79,7 +91,9 @@
 
 "optimal_temperature": "24",
 
-"optimal_moisture": "50"
+"optimal_moisture": "50",
+
+"optimal_moisture_soil": "52"
 
 },
 
@@ -91,7 +105,9 @@
 
 "optimal_temperature": "26",
 
-"optimal_moisture": "45"
+"optimal_moisture": "45",
+
+"optimal_moisture_soil": "55"
 
 },
 
@@ -103,7 +119,9 @@
 
 "optimal_temperature": "27",
 
-"optimal_moisture": "40"
+"optimal_moisture": "40",
+
+"optimal_moisture_soil": "61"
 
 },
 
@@ -115,7 +133,9 @@
 
 "optimal_temperature": "26",
 
-"optimal_moisture": "42"
+"optimal_moisture": "42",
+
+"optimal_moisture_soil": "58"
 
 },
 
@@ -127,7 +147,9 @@
 
 "optimal_temperature": "24",
 
-"optimal_moisture": "44"
+"optimal_moisture": "44",
+
+"optimal_moisture_soil": "59"
 
 },
 
@@ -139,7 +161,9 @@
 
 "optimal_temperature": "22",
 
-"optimal_moisture": "47"
+"optimal_moisture": "47",
+
+"optimal_moisture_soil": "58"
 
 },
 
@@ -151,7 +175,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "58"
+"optimal_moisture": "58",
+
+"optimal_moisture_soil": "57"
 
 },
 
@@ -163,7 +189,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "56"
+"optimal_moisture": "56",
+
+"optimal_moisture_soil": "55"
 
 },
 
@@ -175,7 +203,9 @@
 
 "optimal_temperature": "24",
 
-"optimal_moisture": "52"
+"optimal_moisture": "52",
+
+"optimal_moisture_soil": "56"
 
 },
 
@@ -187,7 +217,9 @@
 
 "optimal_temperature": "23",
 
-"optimal_moisture": "51"
+"optimal_moisture": "51",
+
+"optimal_moisture_soil": "58"
 
 },
 
@@ -199,7 +231,9 @@
 
 "optimal_temperature": "21",
 
-"optimal_moisture": "54"
+"optimal_moisture": "54",
+
+"optimal_moisture_soil": "57"
 
 },
 
@@ -211,7 +245,9 @@
 
 "optimal_temperature": "26",
 
-"optimal_moisture": "53"
+"optimal_moisture": "53",
+
+"optimal_moisture_soil": "55"
 
 },
 
@@ -223,7 +259,9 @@
 
 "optimal_temperature": "27",
 
-"optimal_moisture": "59"
+"optimal_moisture": "59",
+
+"optimal_moisture_soil": "58"
 
 },
 
@@ -235,7 +273,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "63"
+"optimal_moisture": "63",
+
+"optimal_moisture_soil": "62"
 
 },
 
@@ -247,7 +287,9 @@
 
 "optimal_temperature": "24",
 
-"optimal_moisture": "61"
+"optimal_moisture": "61",
+
+"optimal_moisture_soil": "57"
 
 },
 
@@ -259,7 +301,9 @@
 
 "optimal_temperature": "23",
 
-"optimal_moisture": "51"
+"optimal_moisture": "51",
+
+"optimal_moisture_soil": "48"
 
 },
 
@@ -271,7 +315,9 @@
 
 "optimal_temperature": "24",
 
-"optimal_moisture": "46"
+"optimal_moisture": "46",
+
+"optimal_moisture_soil": "49"
 
 },
 
@@ -283,7 +329,9 @@
 
 "optimal_temperature": "22",
 
-"optimal_moisture": "49"
+"optimal_moisture": "49",
+
+"optimal_moisture_soil": "51"
 
 },
 
@@ -295,7 +343,9 @@
 
 "optimal_temperature": "23",
 
-"optimal_moisture": "48"
+"optimal_moisture": "48",
+
+"optimal_moisture_soil": "52"
 
 },
 
@@ -307,7 +357,9 @@
 
 "optimal_temperature": "24",
 
-"optimal_moisture": "54"
+"optimal_moisture": "54",
+
+"optimal_moisture_soil": "56"
 
 },
 
@@ -319,7 +371,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "62"
+"optimal_moisture": "62",
+
+"optimal_moisture_soil": "57"
 
 },
 
@@ -331,7 +385,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "55"
+"optimal_moisture": "55",
+
+"optimal_moisture_soil": "56"
 
 },
 
@@ -343,7 +399,9 @@
 
 "optimal_temperature": "26",
 
-"optimal_moisture": "59"
+"optimal_moisture": "59",
+
+"optimal_moisture_soil": "62"
 
 },
 
@@ -355,7 +413,9 @@
 
 "optimal_temperature": "22",
 
-"optimal_moisture": "49"
+"optimal_moisture": "49",
+
+"optimal_moisture_soil": "49"
 
 },
 
@@ -367,7 +427,9 @@
 
 "optimal_temperature": "23",
 
-"optimal_moisture": "51"
+"optimal_moisture": "51",
+
+"optimal_moisture_soil": "55"
 
 },
 
@@ -379,7 +441,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "58"
+"optimal_moisture": "58",
+
+"optimal_moisture_soil": "57"
 
 },
 
@@ -391,7 +455,9 @@
 
 "optimal_temperature": "26",
 
-"optimal_moisture": "54"
+"optimal_moisture": "54",
+
+"optimal_moisture_soil": "58"
 
 },
 
@@ -403,7 +469,9 @@
 
 "optimal_temperature": "21",
 
-"optimal_moisture": "55"
+"optimal_moisture": "55",
+
+"optimal_moisture_soil": "56"
 
 },
 
@@ -415,7 +483,9 @@
 
 "optimal_temperature": "22",
 
-"optimal_moisture": "55"
+"optimal_moisture": "55",
+
+"optimal_moisture_soil": "54"
 
 },
 
@@ -427,7 +497,9 @@
 
 "optimal_temperature": "22",
 
-"optimal_moisture": "57"
+"optimal_moisture": "57",
+
+"optimal_moisture_soil": "58"
 
 },
 
@@ -439,7 +511,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "53"
+"optimal_moisture": "53",
+
+"optimal_moisture_soil": "55"
 
 },
 
@@ -451,7 +525,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "57"
+"optimal_moisture": "57",
+
+"optimal_moisture_soil": "56"
 
 },
 
@@ -463,7 +539,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "60"
+"optimal_moisture": "60",
+
+"optimal_moisture_soil": "60"
 
 },
 
@@ -475,7 +553,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "61"
+"optimal_moisture": "61",
+
+"optimal_moisture_soil": "64"
 
 },
 
@@ -487,7 +567,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "62"
+"optimal_moisture": "62",
+
+"optimal_moisture_soil": "61"
 
 },
 
@@ -499,7 +581,9 @@
 
 "optimal_temperature": "24",
 
-"optimal_moisture": "47"
+"optimal_moisture": "47",
+
+"optimal_moisture_soil": "49"
 
 },
 
@@ -511,7 +595,9 @@
 
 "optimal_temperature": "26",
 
-"optimal_moisture": "55"
+"optimal_moisture": "55",
+
+"optimal_moisture_soil": "57"
 
 },
 
@@ -523,7 +609,9 @@
 
 "optimal_temperature": "24",
 
-"optimal_moisture": "57"
+"optimal_moisture": "57",
+
+"optimal_moisture_soil": "58"
 
 },
 
@@ -535,7 +623,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "51"
+"optimal_moisture": "51",
+
+"optimal_moisture_soil": "52"
 
 },
 
@@ -547,7 +637,9 @@
 
 "optimal_temperature": "24",
 
-"optimal_moisture": "56"
+"optimal_moisture": "56",
+
+"optimal_moisture_soil": "57"
 
 },
 
@@ -559,7 +651,9 @@
 
 "optimal_temperature": "22",
 
-"optimal_moisture": "57"
+"optimal_moisture": "57",
+
+"optimal_moisture_soil": "55"
 
 },
 
@@ -571,7 +665,9 @@
 
 "optimal_temperature": "23",
 
-"optimal_moisture": "54"
+"optimal_moisture": "54",
+
+"optimal_moisture_soil": "52"
 
 },
 
@@ -583,7 +679,9 @@
 
 "optimal_temperature": "24",
 
-"optimal_moisture": "51"
+"optimal_moisture": "51",
+
+"optimal_moisture_soil": "50"
 
 },
 
@@ -595,7 +693,9 @@
 
 "optimal_temperature": "24",
 
-"optimal_moisture": "52"
+"optimal_moisture": "52",
+
+"optimal_moisture_soil": "52"
 
 },
 
@@ -607,7 +707,9 @@
 
 "optimal_temperature": "24",
 
-"optimal_moisture": "55"
+"optimal_moisture": "55",
+
+"optimal_moisture_soil": "55"
 
 },
 
@@ -619,7 +721,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "53"
+"optimal_moisture": "53",
+
+"optimal_moisture_soil": "53"
 
 },
 
@@ -631,7 +735,9 @@
 
 "optimal_temperature": "26",
 
-"optimal_moisture": "54"
+"optimal_moisture": "54",
+
+"optimal_moisture_soil": "55"
 
 },
 
@@ -643,7 +749,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "55"
+"optimal_moisture": "55",
+
+"optimal_moisture_soil": "56"
 
 },
 
@@ -655,7 +763,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "56"
+"optimal_moisture": "56",
+
+"optimal_moisture_soil": "57"
 
 },
 
@@ -667,7 +777,9 @@
 
 "optimal_temperature": "24",
 
-"optimal_moisture": "58"
+"optimal_moisture": "58",
+
+"optimal_moisture_soil": "60"
 
 },
 
@@ -679,7 +791,9 @@
 
 "optimal_temperature": "24",
 
-"optimal_moisture": "58"
+"optimal_moisture": "58",
+
+"optimal_moisture_soil": "59"
 
 },
 
@@ -691,7 +805,9 @@
 
 "optimal_temperature": "23",
 
-"optimal_moisture": "57"
+"optimal_moisture": "57",
+
+"optimal_moisture_soil": "55"
 
 },
 
@@ -703,7 +819,9 @@
 
 "optimal_temperature": "21",
 
-"optimal_moisture": "59"
+"optimal_moisture": "59",
+
+"optimal_moisture_soil": "58"
 
 },
 
@@ -715,7 +833,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "59"
+"optimal_moisture": "59",
+
+"optimal_moisture_soil": "57"
 
 },
 
@@ -727,7 +847,9 @@
 
 "optimal_temperature": "23",
 
-"optimal_moisture": "54"
+"optimal_moisture": "54",
+
+"optimal_moisture_soil": "56"
 
 },
 
@@ -739,7 +861,9 @@
 
 "optimal_temperature": "27",
 
-"optimal_moisture": "57"
+"optimal_moisture": "57",
+
+"optimal_moisture_soil": "55"
 
 },
 
@@ -751,7 +875,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "50"
+"optimal_moisture": "50",
+
+"optimal_moisture_soil": "51"
 
 },
 
@@ -763,7 +889,9 @@
 
 "optimal_temperature": "26",
 
-"optimal_moisture": "52"
+"optimal_moisture": "52",
+
+"optimal_moisture_soil": "51"
 
 },
 
@@ -775,7 +903,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "53"
+"optimal_moisture": "53",
+
+"optimal_moisture_soil": "50"
 
 },
 
@@ -785,10 +915,11 @@
 
 "optimal_light": "",
 
-
 "optimal_temperature": "24",
 
-"optimal_moisture": "54"
+"optimal_moisture": "54",
+
+"optimal_moisture_soil": "53"
 
 },
 
@@ -800,7 +931,9 @@
 
 "optimal_temperature": "24",
 
-"optimal_moisture": "55"
+"optimal_moisture": "55",
+
+"optimal_moisture_soil": "56"
 
 },
 
@@ -812,7 +945,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "56"
+"optimal_moisture": "56",
+
+"optimal_moisture_soil": "52"
 
 },
 
@@ -824,7 +959,9 @@
 
 "optimal_temperature": "27",
 
-"optimal_moisture": "56"
+"optimal_moisture": "56",
+
+"optimal_moisture_soil": "54"
 
 },
 
@@ -836,7 +973,9 @@
 
 "optimal_temperature": "25",
 
-"optimal_moisture": "57"
+"optimal_moisture": "57",
+
+"optimal_moisture_soil": "59"
 
 },
 
@@ -848,7 +987,9 @@
 
 "optimal_temperature": "26",
 
-"optimal_moisture": "59"
+"optimal_moisture": "59",
+
+"optimal_moisture_soil": "57"
 
 },
 
@@ -860,7 +1001,9 @@
 
 "optimal_temperature": "23",
 
-"optimal_moisture": "58"
+"optimal_moisture": "58",
+
+"optimal_moisture_soil": "57"
 
 },
 
@@ -872,7 +1015,9 @@
 
 "optimal_temperature": "22",
 
-"optimal_moisture": "57"
+"optimal_moisture": "57",
+
+"optimal_moisture_soil": "54"
 
 }
 
