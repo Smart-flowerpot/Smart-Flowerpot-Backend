@@ -800,21 +800,6 @@ interesting_fact":"The flower name Pansy has come from French word 'pensee' and 
 
 },
 
-{
-
-"name": "Peace Lily",
-
-"optimal_light": "",
-
-"optimal_temperature": "24",
-
-"optimal_moisture": "55",
-
-"optimal_moisture_soil": "55"
-
-interesting_fact":""
-
-},
 
 {
 
@@ -827,22 +812,6 @@ interesting_fact":""
 "optimal_moisture": "53",
 
 "optimal_moisture_soil": "53"
-
-interesting_fact":""
-
-},
-
-{
-
-"name": "Phalaenopsis Orchid",
-
-"optimal_light": "",
-
-"optimal_temperature": "26",
-
-"optimal_moisture": "54",
-
-"optimal_moisture_soil": "55"
 
 interesting_fact":""
 
@@ -960,21 +929,6 @@ interesting_fact":"Using Goldenrod, Thomas Edison was able to produce rubber. It
 
 },
 
-{
-
-"name": "Spray Rose",
-
-"optimal_light": "",
-
-"optimal_temperature": "23",
-
-"optimal_moisture": "54",
-
-"optimal_moisture_soil": "56"
-
-interesting_fact":""
-
-},
 
 {
 
@@ -988,23 +942,7 @@ interesting_fact":""
 
 "optimal_moisture_soil": "55"
 
-interesting_fact": "You should keep this plant away from livestock and other animals"
-
-},
-
-{
-
-"name": "Stargazer Lily",
-
-"optimal_light": "",
-
-"optimal_temperature": "25",
-
-"optimal_moisture": "50",
-
-"optimal_moisture_soil": "51"
-
-interesting_fact": ""
+interesting_fact":"You should keep this plant away from livestock and other animals"
 
 },
 
@@ -1020,7 +958,7 @@ interesting_fact": ""
 
 "optimal_moisture_soil": "51"
 
-interesting_fact": "Stock flowers are one of the  the easiest grown plant."
+interesting_fact":"Stock flowers are one of the  the easiest grown plant."
 
 },
 
@@ -1036,7 +974,7 @@ interesting_fact": "Stock flowers are one of the  the easiest grown plant."
 
 "optimal_moisture_soil": "50"
 
-interesting_fact": ""
+interesting_fact":""
 
 },
 
@@ -1052,39 +990,7 @@ interesting_fact": ""
 
 "optimal_moisture_soil": "53"
 
-interesting_fact": "Sunflowers are the symbol of faith, loyalty and adoration"
-
-},
-
-{
-
-"name": "Tea Rose",
-
-"optimal_light": "",
-
-"optimal_temperature": "24",
-
-"optimal_moisture": "55",
-
-"optimal_moisture_soil": "56"
-
-interesting_fact": ""
-
-},
-
-{
-
-"name": "Trachelium",
-
-"optimal_light": "59",
-
-"optimal_temperature": "25",
-
-"optimal_moisture": "56",
-
-"optimal_moisture_soil": "52"
-
-interesting_fact": ""
+interesting_fact":"Sunflowers are the symbol of faith, loyalty and adoration"
 
 },
 
@@ -1100,7 +1006,7 @@ interesting_fact": ""
 
 "optimal_moisture_soil": "54"
 
-interesting_fact": "Tuberose flower blooms only at night and it is the only time when it is active. Due to this these are also called as “Night Queen”, “Mistress of the Night”, or “Raat ki Raani” in Hindi."
+interesting_fact":"Tuberose flower blooms only at night and it is the only time when it is active. Due to this these are also called as “Night Queen”, “Mistress of the Night”, or “Raat ki Raani” in Hindi."
 
 },
 
@@ -1116,7 +1022,7 @@ interesting_fact": "Tuberose flower blooms only at night and it is the only time
 
 "optimal_moisture_soil": "59"
 
-interesting_fact": "The time period where the flower was so expensive (around 1634 to 1637) is now known as "Tulip Mania.""
+interesting_fact":"The time period where the flower was so expensive (around 1634 to 1637) is now known as "Tulip Mania.""
 
 },
 
@@ -1132,7 +1038,7 @@ interesting_fact": "The time period where the flower was so expensive (around 16
 
 "optimal_moisture_soil": "57"
 
-interesting_fact": "Violets are very popular and often used in the industry of perfume"
+interesting_fact":"Violets are very popular and often used in the industry of perfume"
 
 },
 
@@ -1148,7 +1054,7 @@ interesting_fact": "Violets are very popular and often used in the industry of p
 
 "optimal_moisture_soil": "57"
 
-interesting_fact": "Waxflower one of the most growing plant in the world."
+interesting_fact":"Waxflower one of the most growing plant in the world."
 
 },
 
@@ -1164,7 +1070,7 @@ interesting_fact": "Waxflower one of the most growing plant in the world."
 
 "optimal_moisture_soil": "54"
 
-interesting_fact": "Zinnia is derived from German botanist Johann Gottfried Zinn's name"
+interesting_fact":"Zinnia is derived from German botanist Johann Gottfried Zinn's name"
 
 }
 
