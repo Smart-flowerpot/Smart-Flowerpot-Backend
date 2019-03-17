@@ -376,7 +376,7 @@ interesting_fact":"The freesia flower derives its name from the 19th century Ger
 
 "optimal_temperature": "22",
 
-"optimal_moisture": "49",
+"optimal_moisture": "70",
 
 "optimal_moisture_soil": "51"
 
@@ -413,22 +413,6 @@ interesting_fact":"Leaves of geranium can be used for the preparation of tea. "
 "optimal_moisture_soil": "56"
 
 interesting_fact":"Name "gladiolus" means "little sword" in Latin"
-
-},
-
-{
-
-"name": "temperatureher",
-
-"optimal_light": "",
-
-"optimal_temperature": "25",
-
-"optimal_moisture": "62",
-
-"optimal_moisture_soil": "57"
-
-interesting_fact":""
 
 },
 
@@ -658,7 +642,7 @@ interesting_fact":"Lilies do not require daily watering"
 
 {
 
-"name": "Limonium",
+"name": "Sea Lavender",
 
 "optimal_light": "",
 
@@ -915,7 +899,7 @@ interesting_fact":"Snapdragons are named after the flower, which looks similar 
 
 {
 
-"name": "Solidago",
+"name": "GoldenRod",
 
 "optimal_light": "",
 
