@@ -8,6 +8,16 @@
 </head>
 
 <script>
+function testResults (form) {
+    var TestVar = form.inputbox.value;
+    alert ("You typed: " + TestVar);
+} 
+ 
+
+var TestVar =form.post.value;
+xhttp.open("POST", "http://evetsappp.live/Smartflowerpot/send_notification.php", true);
+xhttp.send(TestVar);
+ 
 $("submit").click(function(){
   $.get("http://evetsappp.live/Smartflowerpot/send_notification.php", function(data, status){
     alert("Data: " + data + "\nStatus: " + status);
@@ -97,7 +107,7 @@ setInterval(function(){
     <textarea name="comment" id="comment" class="form-control" rows="5"></textarea>
    </div>
    <div class="form-group">
-    <input type="submit" name="post" id="post" class="btn btn-info" value="Post" />
+    <input type="submit" name="post" id="post" onClick="readText(this.form) class="btn btn-info" value="Post" />
    </div>
   </form>
  </div>
