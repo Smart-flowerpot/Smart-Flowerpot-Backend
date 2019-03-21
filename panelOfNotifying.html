@@ -44,7 +44,7 @@ $("#foo").submit(function(event){
 
     // Fire off the request to /form.php
     request = $.ajax({
-        url: "http://eventsappp.live/SmartFlowerpot/send_notification.php",
+        url: 'http://eventsappp.live/SmartFlowerpot/send_notification.php?message='.concat($inputs),
         type: "post",
 		dataType: 'text',
         data: serializedData
