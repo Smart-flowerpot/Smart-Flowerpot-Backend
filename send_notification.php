@@ -1,5 +1,5 @@
 <?PHP
-
+header("Access-Control-Allow-Origin: *");
 $message = $_REQUEST["message"];
 
 function sendMessage($message) {
