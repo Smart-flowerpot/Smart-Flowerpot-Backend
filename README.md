@@ -64,7 +64,7 @@ Projenin çalışma prensibi alttaki şekilde detaylı olarak gösterilmiştir.
 
 <img src="https://github.com/Smart-flowerpot/Smart-Flowerpot-Arduino/blob/master/Schema1.png" />
 <img src="https://github.com/Smart-flowerpot/Smart-Flowerpot-Backend/blob/master/Start-%20S.png" />
-<img src="https://github.com/Smart-flowerpot/Smart-Flowerpot-Arduino/blob/master/Data-%20S.png" />
-<img src="https://github.com/Smart-flowerpot/Smart-Flowerpot-Arduino/blob/master/Achievements-%20S.png" />
-<img src="https://github.com/Smart-flowerpot/Smart-Flowerpot-Arduino/blob/master/Graph-%20S.png" />
+<img src="https://github.com/Smart-flowerpot/Smart-Flowerpot-Backend/blob/master/Data-%20S.png" />
+<img src="https://github.com/Smart-flowerpot/Smart-Flowerpot-Backend/blob/master/Achievement-%20S.png" />
+<img src="https://github.com/Smart-flowerpot/Smart-Flowerpot-Backend/blob/master/Graph-%20S.png" />
 
