@@ -62,5 +62,8 @@ Uygulama tamamiyle kullanıcı dostu ve basit bir arayüz kullanılarak tasarlan
 Projenin çalışma prensibi alttaki şekilde detaylı olarak gösterilmiştir.
 
 
-<img src="https://github.com/Smart-flowerpot/Smart-Flowerpot-Arduino/blob/master/Schema1.png" />
-<img src="https://github.com/Smart-flowerpot/Smart-Flowerpot-Arduino/blob/master/Schema3.png" />
+<img src="https://github.com/Smart-flowerpot/Smart-Flowerpot-Arduino/blob/master/Start- S.png" />
+<img src="https://github.com/Smart-flowerpot/Smart-Flowerpot-Arduino/blob/master/Data- S.png" />
+<img src="https://github.com/Smart-flowerpot/Smart-Flowerpot-Arduino/blob/master/Achievements- S.png" />
+<img src="https://github.com/Smart-flowerpot/Smart-Flowerpot-Arduino/blob/master/Graph- S.png" />
+
